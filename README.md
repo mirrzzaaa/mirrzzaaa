@@ -4,12 +4,14 @@
   ![Visitor Count](https://komarev.com/ghpvc/?username=mirrzzaa&color=green)
 </div>
 
-<h3 style="margin-bottom: 4px;">Hello, I'm Mirza 👋</h3>
+<h2 style="margin-bottom: 4px;">Hello, I'm Mirza 👋</h2>
 <p style="margin-top: 0;">Undergraduate Information Technology student</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
-### Tech Stack 💻
+## Tech Stack 💻
+<p style="margin-top: 0;">
+
 - **Languages:**  
   ![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=purple) 
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
@@ -35,11 +37,12 @@
   ![Laragon](https://img.shields.io/badge/Laragon-323330?style=for-the-badge&logo=laragon&logoColor=blue) 
   ![PlatformIO](https://img.shields.io/badge/PlatformIO-323330?style=for-the-badge&logo=platformio&logoColor=FF6600)
 
- 
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
-<img src="https://raw.githubusercontent.com/mirrzzaa/mirrzzaa/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mirrzzaaa/mirrzzaaa/output/snake.svg" alt="Snake animation" />
+
 
 <!--
 **mirrzzaaa/mirrzzaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
