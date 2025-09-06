@@ -1,19 +1,29 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"  # update tiap 12 jam
+  schedule: # jalan tiap 12 jam
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
         with:
-          github_user_name: mirrzzaa
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
-      - name: Push to output branch
+
+      - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
