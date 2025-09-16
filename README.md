@@ -24,6 +24,7 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=purple)  
   ![HTML](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=E34F26) 
   ![CSS](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=1572B6)
+  ![React](https://img.shields.io/badge/React.js-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 - **Databases:**  
   ![MySQL](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white)
@@ -36,6 +37,7 @@
   ![XAMPP](https://img.shields.io/badge/XAMPP-323330?style=for-the-badge&logo=xampp&logoColor=FB7A24) 
   ![Laragon](https://img.shields.io/badge/Laragon-323330?style=for-the-badge&logo=laragon&logoColor=blue) 
   ![PlatformIO](https://img.shields.io/badge/PlatformIO-323330?style=for-the-badge&logo=platformio&logoColor=FF6600)
+  ![Vite](https://img.shields.io/badge/Vite.js-323330?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 </p>
 
